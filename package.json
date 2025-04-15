@@ -4,7 +4,7 @@
   "description": "test",
   "main": "first.js",
   "scripts": {
-    "generate": "nuxi generate"
+    "generate": "nuxt generate"
   },
   "repository": {
     "type": "git",
