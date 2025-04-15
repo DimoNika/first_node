@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DimoNika/first_node/issues"
   },
-  "homepage": "https://github.com/DimoNika/first_node#readme"
+  "homepage": "https://github.com/DimoNika/first_node#readme",
+  "dependencies": {
+    "nuxt": "^3.16.2"
+  }
 }
